@@ -1,0 +1,89 @@
+p{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sora', sans-serif;
+}
+
+
+
+.div1{
+    background-color: blue;
+    display: grid;
+    width: 100%;
+    height:100%;
+    align-items: center;
+    align-self: center;
+    grid-template-columns: 1fr 2fr;
+}
+.div2{
+    display: inline-block;
+    background-color: blueviolet;
+    padding: 200px 140px;
+}
+.div3{
+    background-color: brown;
+    display:inline-block;
+    
+}
+.div4{
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+.div5{
+    background-color: yellow;
+    padding: 30%;
+    margin: 10%;
+}
+.div6{
+    background-color: tomato;
+    padding: 30%;
+    margin:10%;
+}
+
+.div7 {
+    background-color: yellowgreen;
+    padding: 30%;
+    margin: 10%;
+}
+.div8{
+    background-color: orange;
+    display: inline-block;
+}
+.div9{
+    background-color: pink;
+    display: inline-block;
+    padding: 30%;
+}
+.div10{
+    background-color: green;
+    display: inline-block ;
+    padding:11%;
+    
+}
+.div11{
+    background-color: grey;
+    display: inline-block;
+}
+.divC{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.div12{
+    background-color: blueviolet;
+    display: inline-block;
+    padding:11%;
+}
+.div13{
+    background-color: blanchedalmond;
+    display: inline-block;
+    padding:11%;
+}
+.div14{
+    background-color: turquoise;
+
+}
+.div16{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}

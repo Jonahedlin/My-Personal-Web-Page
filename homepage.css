@@ -1,0 +1,265 @@
+body{
+    background-image: url(pictures/wallhaven-dgx7eg_3840x2160.png);
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: inherit;
+
+}
+
+div{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sora', sans-serif;
+    color: white;
+}
+button{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sora', sans-serif;
+    color: white;
+}
+
+.div1{
+    display: grid;
+    width: 100%;
+    height:100%;
+    align-items: center;
+    align-self: center;
+    grid-template-columns: 1fr 2fr;
+}
+.div2{
+    display: inline-block;
+    padding: 50px 50px;
+}
+.pfppic{
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 20px black;
+}
+.div3{
+    display:inline-block;
+}
+.div4{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-weight: 600;
+    font-size: larger;
+}
+.langmenu{
+    display: block;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+    letter-spacing: 2px;
+    text-shadow: 10px 10px 10px black;
+}
+.langdesc{
+    text-align: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 200;
+    opacity: 0.05;
+    transition: 0.5s;
+}
+.langdesc:hover{
+    opacity: 1;
+}
+.div5{
+    margin: 30%;
+    text-align: center;
+    align-items: center;
+    transition: 0.2s;
+    border-style: none;
+    border-radius: 10px;
+}
+.div5:hover{
+    border-style: solid;
+    border-radius: 10%;
+    border-style: none;
+}
+.fadeintext{
+    display:block;
+    position: absolute;
+    opacity: 0.05;
+    justify-content: left;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 300;
+    transition: 2s;
+    width: 30%;
+}
+.fadeintext:hover{
+    opacity: 2;
+    justify-content: left;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 300;
+}
+.div6{
+    margin: 30%;
+    text-align: center;
+    align-items: center;
+    border-style: none;
+    border-radius: 10px;
+    transition: 0.2s;
+}
+.div6:hover{  
+    border-style: solid;
+    border-radius: 10%;
+    border-style: none;
+}
+.div7 {
+    margin: 30%;
+    text-align: center;
+    align-items: center;
+    border-style:none;
+    border-radius: 10px;
+    transition: 0.2s;   
+}
+.div7:hover{
+    
+    border-style: solid;
+    border-radius: 10%;
+    border-style: none;
+}
+.div8{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    
+    vertical-align: middle;
+}
+.div9{
+    background-image: url(pictures/Simple\ Blue\ Gradient.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: block;
+    padding: 25% 25%;
+    font-size: 16px;
+    border-radius: 10px;
+    background-size: contain;
+}
+.spannn {
+    width: 50%;
+}
+.div10{
+    display: inline-block ;
+    padding-top: 50%;
+    padding-left: 33%;
+    transition: 0.2s;
+    border-radius: 5px;
+}
+.div10:hover {
+    background-color: rgb(2,54,123);
+    border-radius: 10px;
+
+}
+.div11{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.divC{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+.div12{
+    display: inline-block;
+    transition: 0.2s;
+    border-radius: 10px;
+    padding-top: 50%;
+    padding-left: 33%;
+    transition: 0.2s;
+    border-radius: 5px;
+    
+}
+.div12:hover {
+    background-color: rgb(2,54,123);
+    border-radius: 10px;
+}
+.div13{
+    justify-content: top;
+    display: inline-block;
+    padding-top: 50%;
+    padding-left: 33%;
+    transition: 0.2s;
+    border-radius: 10px;
+    transition: 0.2s;
+    border-radius: 5px;
+}
+.div13:hover {
+    background-color: rgb(2,54,123);
+    border-radius: 10px;
+}
+.div14{
+    font-weight: 600;
+    font-style: italic;
+}
+.div16{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    vertical-align: top;
+    text-align: center;
+}
+.html_image{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.css_pic{
+    object-fit: fill;
+}
+.javapic{
+    width: 144px; ;
+    height: 100%;
+    align-items: center;
+}
+.portallink{
+    transition: 0.2s;
+}
+.portallink:hover{
+    opacity: 0.5;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+}
+.school_links{
+    text-decoration: none;
+    color: beige;
+    transition: 0.15s;
+}
+.school_links:hover {
+    color: green;
+}
+.divA{
+    font-size: 34px;
+    margin-left: 20px;
+    text-shadow: 10px 10px 10px black;
+}
+.divB {
+    font-size: 14px;
+    margin-left: 20px;
+}
+.divC {
+    margin-left: 20px;
+}
+.button1 {
+    color: white;
+}
+.button_1 {
+    background-color: black;
+    padding: 15px 20px;
+    margin: 20px 20px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(2,54,123);
+    border-width: 2px;
+    transition: 0.2s;
+}
+.button_1:hover{
+    background-color:rgb(2,54,123) ;
+}
+.div17{
+    vertical-align: top;
+}
+.linkspan{
+    vertical-align: top;
+    font-size: 16px;
+    font-weight: 200;
+}

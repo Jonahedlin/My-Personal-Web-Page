@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sora', sans-serif;
+    color: white;
+    background-image: url(pictures/wallhaven-dgx7eg_3840x2160.png);
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: inherit;
+    word-spacing: 2px;
+    line-height: 25px;
+    justify-content: center;
+
+}
+
+
+.heading{
+    font-size: 35px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    color: white;
+    text-align: center;
+    text-shadow: 10px 10px 10px black;
+}
+.bodydiv {
+    margin-bottom: 5px;
+    justify-content: center;
+    word-spacing: 2px;
+}
+.button1{
+    color: white;
+    
+    text-align: center;
+}
+.button_1 {
+    color: white;
+    background-color: black;
+    padding: 15px 40px;
+    margin: 20px 20px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(2,54,123);
+    border-width: 2px;
+    transition: 0.2s;
+}
+.button_1:hover{
+    background-color:rgb(2,54,123) ;
+
+
+}

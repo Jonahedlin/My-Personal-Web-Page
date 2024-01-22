@@ -1,0 +1,99 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sora', sans-serif;
+    background-image: url(pictures/wallhaven-dgx7eg_3840x2160.png);
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: inherit;
+
+    color: white;
+}
+div {
+    font-weight: 300;
+    border-style: solid;
+    border-radius: 1px;
+    border-color: rgb(2,54,123);
+}
+.div1{
+    
+    justify-content: center;
+    text-align: center;
+    padding: 20px 20px;
+    border-style: none;
+
+}
+.div2{
+    
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    border-style: none;
+}
+.div3 {
+    font-size: 20px;
+    font-weight: 200;
+   
+    padding: 20px 20px;
+    border-style: none;
+}
+.div4 {
+    font-size: 24px;
+    font-weight: 600;
+   
+    text-align: center;
+    padding: 20px 20px;
+    border-style: none;
+}
+.div5{
+    
+    display: grid;
+    grid-template-columns: 3fr 1fr 1fr ;
+}
+.div6{
+    
+    padding: 10px;
+
+}
+.div7{
+    
+    padding: 10px;
+}
+.div8 {
+    
+    padding: 10px;
+}
+button{
+    font-size: 20px;
+    font-weight: 400;
+    padding: 10px 40px;
+   background-color: black;
+    color: white;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(2,54,123);
+    transition: 0.2s;
+    border-style: none;
+    
+}
+button:hover {
+    background-color: rgb(2,54,123);
+    border-style: none;
+}
+.buttondiv{
+    
+ display: inline-block;
+ border-style: none;
+}
+.backdiv{
+    align-items: center;
+    text-align: center;
+    border-style: none;
+}
+.caution {
+    font-size: 18px;
+    font-weight: 200;
+    padding: 15px;
+    text-align: center;
+    border-style: none;
+}
